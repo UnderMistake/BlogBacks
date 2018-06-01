@@ -1,0 +1,28 @@
+menu:
+    主页: /
+    归档: /archives/
+    # Weibo: http://weibo.com/sunchongsheng
+    # GitHub: https://github.com/pinggod
+    # Rss: /atom.xml
+    关于: /about/
+
+favicon: /favicon.png
+logo: /favicon.png
+
+archive_generator:
+    per_page: 10
+    yearly: true
+    monthly: true
+    daily: true
+
+# Comment
+# e.g disqus: seansun
+disqus: alfred
+duoshuo:
+
+# Analytics
+# google-analytics:
+ga: UA-65933410-1
+
+# Copyright Infomation
+startyear: 2018
